@@ -32,11 +32,15 @@ Merge the `TextureReplacer` folder from this package into the `TextureReplacer` 
 
 ## Original README
 
-This section comes from [the original forum post by GreeningGalaxy](https://forum.kerbalspaceprogram.com/index.php?/topic/96851-19x-texturereplacer-413-2322020/page/32/&tab=comments#comment-2049913).
+This section comes from [the original forum post by GreeningGalaxy](https://forum.kerbalspaceprogram.com/index.php?/topic/96851-19x-texturereplacer-413-2322020/page/32/&tab=comments#comment-2049913), with minimal changes for formatting.
 
-**INTRODUCING**: *GreeningGalaxy's Diverse Kerbal Lasses* Kerbal Head Texture Pack!
+**INTRODUCING**:
 
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+**GreeningGalaxy's Diverse Kerbal Lasses**
+
+Kerbal Head Texture Pack!
+
+*License*: ![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png) *([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))*
 
 *Posted* July 8, 2015 (edited)  
 *Edited* August 24, 2017 by GreeningGalaxy
@@ -45,6 +49,8 @@ License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ### Basic Lasses
 
 This is the basic release, which includes relatively 'normal'-looking kerbal heads for the default 'female' model. These heads are have several different skin and hair colors, as well as a few different colors and styles of makeup. At present, there are 16 different options. Additional packs with different features will become available later.
+
+![Basic lasses](basic.jpg)
 
 It turns out drawing hair is about as hard as I expected, especially considering that I have no art skills to speak of and nothing besides a mouse to draw with. All these hairstyles (at the moment, there are three textures) were made by stitching together photos of real hair - the long wavy one is my hair, while the other two are from my friends.
 
@@ -55,10 +61,14 @@ These packs were originally planned to add only especially feminine heads, since
 
 This pack includes only 12 heads instead of the usual 16 at the moment, but that will change once I add additional hairstyles (and thus have more variability to work with). Unlike the original basic pack, none of the Serious Lasses are wearing lipstick or eyeliner, and the contouring has been made much more subtle. Three new closer-to-stock variants of eyelashes have been added, as well as two new mid-toned skin shades. Subtle hair highlights have been retained, but all-blue hair has not.
 
+![Serious lasses](serious.png)
+
 
 ### Gothy Lasses
 
 This release adds an additional 16 heads with more unusual makeup options - things like black/blue/green lipstick, bright red/green hair, and blue/gray skin.
+
+![Gothy lasses](gothy.png)
 
 
 ### Lass GIMP File [MISSING]
