@@ -12,9 +12,9 @@ The directory structure has been reorganized to the format used by TR 4.1.3. The
 
 As of this writing (March 2020), the original creator of the textures, GreeningGalaxy, last visited the KSP forums in June 2018. So, as per the license specified by the original creator, I'm taking the liberty of providing this updated package to keep this set of textures working and available.
 
-I obtained the textures from the original download links back in 2015 when playing KSP 1.0.4. Unfortunately, it didn't occur to me at the time to download the GIMP template that was also provided, so it's missing. **If you have a copy of it, please let me know** - it would be a welcome addition to this package. (The filename was `kerbalGirl_Base_2.xcf`.)
+I obtained the textures from the original download links back in 2015 when playing KSP 1.0.4. I didn't have the template (a.k.a the Lass GIMP File); it was kindly [provided by Corax](https://forum.kerbalspaceprogram.com/index.php?/topic/96851-19x-texturereplacer-413-2322020/page/96/&tab=comments#comment-3765185), who had similarly archived a local copy.
 
-If the original creator comes back, I'm more than willing to hand the maintenance back to them. Or to anyone willing to take over, actually; for me, this is a one-time conversion effort, and I'm unlikely to maintain this package further, except to add in the GIMP template if someone can provide it.
+If the original creator comes back, I'm more than willing to hand the maintenance back to them. Or to anyone willing to take over, actually; for me, this is a one-time conversion effort, and I'm unlikely to maintain this package further.
 
 All credit belongs to the original creator, GreeningGalaxy. The license is CC BY 4.0, as can be seen from [the badge URL](https://i.creativecommons.org/l/by/4.0/88x31.png) in the original forum post.
 
@@ -71,15 +71,15 @@ This release adds an additional 16 heads with more unusual makeup options - thin
 ![Gothy lasses](gothy.png)
 
 
-### Lass GIMP File [MISSING]
+### Lass GIMP File
 
-If you want to mix and match your own kerbal heads using features from this pack, the best way to do that is to use the GIMP to open the original .xcf file, which is provided below. A number of layers corresponding to different colors for different features are included, or you can make your own. This will be updated with new options as they become available.
+If you want to mix and match your own kerbal heads using features from this pack, the best way to do that is to use the GIMP to open the original `.xcf` file [[kerbalGirl_Base_2.xcf](kerbalGirl_Base_2.xcf)], which is provided below. A number of layers corresponding to different colors for different features are included, or you can make your own. This will be updated with new options as they become available.
 
-To make a customized texture using the file, just open it, enable, disable and modify layers as you like, and then export it to GameData/TextureReplacer/Heads. Also, don't forget to add the exported filename to one of the .cfg files in the TextureReplacer directory under femaleHeads!
+To make a customized texture using the file, just open it, enable, disable and modify layers as you like, and then export it to `GameData/TextureReplacer/Heads`. Also, don't forget to add the exported filename to one of the `.cfg` files in the `TextureReplacer` directory under `femaleHeads`!
 
 This file was last updated on 2015-7-11.
 
-*[Update March 2020, by Technologicat: These install instructions are outdated. For up-to-date instructions on installing textures to TextureReplacer, see [the README](https://github.com/ducakar/TextureReplacer) in TR's official GitHub repo.]*
+*[Update March 2020, by Technologicat: These install instructions are outdated. For up-to-date instructions on installing textures to TextureReplacer, see [the README](https://github.com/ducakar/TextureReplacer) in TR's official GitHub repo. The SHA256 checksum of the `.xcf` differs from the original; Corax said it's probably due to layer visibility changes. The file has been tested to work in GIMP 2.8.]*
 
 Note: I don't think Photoshop will support the .xcf format, but I admit I don't know since I don't use Photoshop. GIMP is free in any case, but if you really want a .psd file or whatever Photoshop takes these days, I think it can be arranged.
 
