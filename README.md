@@ -81,7 +81,7 @@ This file was last updated on 2015-7-11.
 
 *[Update March 2020, by Technologicat: These install instructions are outdated. For up-to-date instructions on installing textures to TextureReplacer, see [the README](https://github.com/ducakar/TextureReplacer) in TR's official GitHub repo. The SHA256 checksum of the `.xcf` differs from the original; Corax said it's probably due to layer visibility changes. The file has been tested to work in GIMP 2.8.]*
 
-Note: I don't think Photoshop will support the .xcf format, but I admit I don't know since I don't use Photoshop. GIMP is free in any case, but if you really want a .psd file or whatever Photoshop takes these days, I think it can be arranged.
+Note: I don't think Photoshop will support the `.xcf` format, but I admit I don't know since I don't use Photoshop. GIMP is free in any case, but if you really want a `.psd` file or whatever Photoshop takes these days, I think it can be arranged.
 
 
  -GreeningGalaxy
